@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQiV3jfz45OKYGejP9+2T9s6N3Xl3SqWkmnnjsGK523WJ4C2pJDc3tETPDwP+E87+gy40n8H9rP90lgQUtS5HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COMPLUS\\Downloads\\ChurchPlusPhone\\ChurchPlus\\ChurchPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMPLUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\COMPLUS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\COMPLUS\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\COMPLUS\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

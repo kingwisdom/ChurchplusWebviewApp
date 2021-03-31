@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:controls="clr-namespace:Refractored.XamForms.PullToRefresh;assembly=Refractored.XamForms.PullToRefresh"
+             mc:Ignorable="d"
+             x:Class="ChurchPlus.ErrorPage">
+    <StackLayout>
+
+            <StackLayout HorizontalOptions="Center" VerticalOptions="Start">
+            
+                <Image Margin="0,0,0,10" x:Name="imglogo" Source="image.png" ></Image>
+                <Label Margin="0,0,0,10" FontAttributes="Bold" FontSize="28" TextColor="#CA6F1E" HorizontalTextAlignment="Center" Text="Churchplus"></Label>
+                <Label HorizontalOptions="Center" Text="No Internet Connection!"></Label>
+                <Label HorizontalOptions="Center" Text="Please connect your phone and try again"></Label>
+            
+            </StackLayout>
+
+        <!--<Button x:Name="refresh" Text="Reload Page" Clicked="refresh_Clicked" BorderWidth="0" CornerRadius="15" BackgroundColor="#CA6F1E" TextColor="White"/>-->
+    </StackLayout>
+</ContentPage>

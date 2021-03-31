@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Q1mVycT8ILKxmaqG+o+BoZxRlxx5sVhPGf0hkd+Z5u1cq5DLdwF8ernDiunT80oCP+EsTxxhuSFMowcE92JpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ChurchPlus\\ChurchPlus.iOS\\ChurchPlus.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\refractored.xamforms.pulltorefresh\\2.4.1\\refractored.xamforms.pulltorefresh.2.4.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
